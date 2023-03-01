@@ -37,7 +37,7 @@ To use the code in this repository, you can follow these steps:
 1. Clone the repository to your local machine
 2. Install the required dependencies
 3. Open Jupyter Notebook (optional)
-4. Navigate to the `src/` folder and run the `main.py` script to generate predictions
+4. Navigate to the `Computation/` folder and run the `Computation.py` script to generate predictions
 5. View the results in the `output/` folder
 
 Alternatively, you can run the example notebook provided in the `notebooks/` folder to see a step-by-step demonstration of how to use the code.
