@@ -37,8 +37,8 @@ This repository is licensed under the MIT License. Please see the `LICENSE` file
 
 ## Acknowledgments
 
-This project was inspired by the work of [XYZ](https://example.com), and uses data from [ABC](https://example.com). We would like to thank the contributors of scikit-learn and pandas for their excellent libraries, as well as the Jupyter community for creating a powerful tool for data analysis and visualization. 
+This project is an extension of my thesis, and uses data from Yahoo, Fed of St. Luis and OECD. I would like to thank the contributors of scikit-learn and pandas for their excellent libraries, as well as the Jupyter community for creating a powerful tool for data analysis and visualization and the Imperial Big Data faculty for their guidance. 
 
 ## Contact
 
-If you have any questions or comments about this repository, please feel free to contact us at [email address]. We welcome contributions and feedback from the community.
+If you have any questions or comments about this repository, please feel free to contact me at pk122@ic.ac.uk. We welcome contributions and feedback from the community.
