@@ -6,7 +6,7 @@ This repository contains code and data for predicting the highest performing cur
 
 The code in this repository is based on a gradient boosted decision trees model that uses historical data to predict which currency pairs are likely to generate the highest returns when used in a carry trade strategy. The model takes into account various factors such as interest rates, exchange rates, and market volatility to make its predictions. 
 
-The data used to train and test the model is included in the repository in the `data/` folder. The `src/` folder contains the Python scripts used to preprocess the data, train the model, and generate predictions. 
+The data used to train and test the model is included in the repository and in the future will be in the `data/` folder. The file projectCurrencySelection.ipynb contain a Jupyter notebook with explanations of the code 
 
 ## Theory 
 
